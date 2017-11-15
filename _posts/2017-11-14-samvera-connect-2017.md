@@ -32,6 +32,7 @@ Northwestern University hosted [Samvera Connect 2017][samvera_connect_2017] ([Co
 * Lightning Talk on "[What I learned from working with students and how it’s positively changed our team](https://github.com/h-parekh/developer_notes/blob/master/What_I_learnt_from_working_with_student_developers.md)"
 * Panel facilitation [What Should We Be Testing](https://docs.google.com/document/d/1Jg-6PWlb-jPztlXQV9a-zq6KVrbAZJUL_uJu9lkZ_9w/edit)
 * Design discussion on [proposed permission refactoring][who_knows_what_can_can_can_can] (building on [previous notes](https://docs.google.com/document/d/1rUu1uBjAnNtGSIprQeEYkVLNFb6j5ioWJ7xNovE36Ns/edit))
+* Presented poster on [Team Composition and Projects](https://drive.google.com/open?id=0BwzDwpVcwbQpMVA5dlV3RFU2NGN0NkZPZHVjc3YtWGIwdWRv)
 
 ## Sessions
 
