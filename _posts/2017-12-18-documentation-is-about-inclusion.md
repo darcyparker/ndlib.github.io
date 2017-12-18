@@ -3,7 +3,7 @@ author: jfriesen
 category: practices
 filename: 2017-12-18-samvera-connect-2017.md
 layout: post
-tagline: If you want to go far…you better document where you've been and where you're going
+tagline: If you want to go far you better document where you've been and where you're going
 title: Documentation is About Inclusion
 tags: 'ruby, design, samvera'
 ---
