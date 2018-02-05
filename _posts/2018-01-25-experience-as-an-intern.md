@@ -1,6 +1,6 @@
 ---
 author: mhallwac
-category: internships
+category: practices
 filename: 2018-01-25-experience-as-an-intern.md
 layout: post
 tagline: Reflection on experience gained through the internship
