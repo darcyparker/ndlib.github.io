@@ -1,5 +1,5 @@
 ---
-author: jfriesen
+author: jeremyf
 category: practices
 filename: 2018-02-07-responsible-overwriting-of-ruby-methods.md
 layout: post

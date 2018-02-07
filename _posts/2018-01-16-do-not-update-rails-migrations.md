@@ -1,5 +1,5 @@
 ---
-author: jfriesen
+author: jeremyf
 category: practices
 filename: 2018-01-16-do-not-update-rails-migrations.md
 layout: post

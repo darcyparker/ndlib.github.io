@@ -1,5 +1,5 @@
 ---
-author: jfriesen
+author: jeremyf
 category: practices
 filename: 2017-02-23-a-dependency-injection-pattern.md
 layout: post

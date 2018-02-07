@@ -1,5 +1,5 @@
 ---
-author: jfriesen
+author: jeremyf
 category: practices
 filename: 2018-01-19-redefining-instance-methods-at-runtime.md
 layout: post

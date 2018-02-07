@@ -1,5 +1,5 @@
 ---
-author: jfriesen
+author: jeremyf
 category: practices
 filename: 2017-11-14-samvera-connect-2017.md
 layout: post
