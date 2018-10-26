@@ -35,7 +35,7 @@ It has the concept of modes:
 * Visual
 * Select
 
-[VIM Modes Transition Diagram](https://darkpan.com/files/vim.svg) by Marco Fontani
+[VIM Modes Transition Diagram](https://gist.github.com/darcyparker/1886716) by Darcy Parker
 
 These modes focus on the tasks you are trying to accomplish.
 Each mode has a single responsibility.
